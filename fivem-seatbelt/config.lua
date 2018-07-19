@@ -1,4 +1,7 @@
 Cfg             = {}
 Cfg.DiffTrigger = 0.255 
 Cfg.MinSpeed    = 19.25 --THIS IS IN m/s
-Cfg.Strings     = { belt_on = 'Turvavyö ^5 kiinni^0.', belt_off = 'Turvavyö ^1 auki^0.' }
+Cfg.Strings     = { 
+  belt_on = 'Du har taget sikkerhedsselen ^5 på^0.', 
+  belt_off = 'Du har taget sikkerhedsselen ^1 af^0.' 
+}
